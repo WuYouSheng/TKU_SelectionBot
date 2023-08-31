@@ -12,7 +12,9 @@
 ## 使用方式：
 ### 1. 先下載執行檔案
 > Windows平台請下載Public_WYSHBot_230829_Windows
+> 
 > MacOS Intel處理器的請下載Public_WYSHBot_230829_Mac(intel)
+> 
 > MacOS M1/M2系列處理器請下載Public_WYSHBot_230829_MacOS(Silicon)
 
 
