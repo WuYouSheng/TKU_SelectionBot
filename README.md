@@ -10,8 +10,7 @@
 
 
 ## 使用方式：
-### 1. 先進資料夾下載執行檔案
-[下載位置](https://1drv.ms/u/s!AvwcoqTkdjpWg6gp_bPQIFFvSRJ8nQ?e=K7QFC6)
+### 1. 先下載執行檔案
 > Windows平台請下載Public_WYSHBot_230829_Windows
 > MacOS Intel處理器的請下載Public_WYSHBot_230829_Mac(intel)
 > MacOS M1/M2系列處理器請下載Public_WYSHBot_230829_MacOS(Silicon)
@@ -81,8 +80,4 @@ P.S.影片中使用Mac做範例，Windows使用介面大同小異
 
 [https://line.me/ti/g2/EQSB4VBKjoVXM0n46GDIrmdTwieWd1LIrtYpJg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default](https://line.me/ti/g2/EQSB4VBKjoVXM0n46GDIrmdTwieWd1LIrtYpJg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
-## 原始碼開源
-以下為原始碼，可以直接下載原始檔案使用
-打包：
-https://1drv.ms/u/s!AvwcoqTkdjpWg7thc2Y4Pm72H_xErg?e=subqq4
 
